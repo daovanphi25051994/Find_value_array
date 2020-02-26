@@ -1,0 +1,29 @@
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+button {
+    margin: 0 10px;
+    width: 70px;
+    height: 40px;
+    font-weight: bold;
+    background: gray;
+    border-radius: 10px;
+    border: gray 1px solid;
+    color: white;
+}
+
+button:hover {
+    background: sienna;
+}
+
+input {
+    height: 30px;
+    width: 250px;
+    font-size: 20px;
+}
+
+p {
+    font-size: 20px;
+}
